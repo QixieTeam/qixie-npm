@@ -1,0 +1,17 @@
+{
+    "name": "@qixie/cli",
+    "version": "0.0.1",
+    "description": "qixie的命令行工具",
+    "main": "index.js",
+    "keywords": [
+        "qixie"
+    ],
+    "author": "slouchwind",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^9.4.0"
+    },
+    "bin": {
+        "qixie": "./cli.js"
+    }
+}
